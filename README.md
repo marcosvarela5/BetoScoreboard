@@ -6,6 +6,7 @@ Open source Minecraft plugin that implements a dynamic scoreboard that updates a
 - Display player name
 - Display player's money (updating each 60s)
 - Display online players counter (same period update).
+- Display current player gamemode (instantly updating).
 
 *Note 1: Scoreboards will be more and more customizable in future versions of this plugin. This is only a snapshot.*
 
