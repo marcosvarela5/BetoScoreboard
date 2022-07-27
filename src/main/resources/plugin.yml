@@ -1,0 +1,6 @@
+name: BetoScoreboard
+version: '${project.version}'
+main: es.marcos.betoscoreboard.BetoScoreboard
+api-version: 1.18
+authors: [ Marcos ]
+description: Open source scoreboard for my server with friends
